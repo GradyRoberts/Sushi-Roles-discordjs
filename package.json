@@ -1,0 +1,26 @@
+{
+  "name": "Sushi-Roles-discordjs",
+  "packageManager": "yarn@3.6.3",
+  "resolutions": {
+    "@discordjs/brokers": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/brokers",
+    "@discordjs/builders": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/builders",
+    "@discordjs/collection": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/collection",
+    "@discordjs/core": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/core",
+    "create-discord-bot": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/create-discord-bot",
+    "discord.js": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/discord.js",
+    "@discordjs/docgen": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/docgen",
+    "@discordjs/formatters": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/formatters",
+    "@discordjs/next": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/next",
+    "@discordjs/proxy": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/proxy",
+    "@discordjs/proxy-container": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/proxy-container",
+    "@discordjs/rest": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/rest",
+    "@discordjs/ui": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/ui",
+    "@discordjs/util": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/util",
+    "@discordjs/voice": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/voice",
+    "@discordjs/ws": "portal:/C:/Users/Grady/Desktop/GitHub/discord.js/packages/ws"
+  },
+  "dependencies": {
+    "@discordjs/rest": "latest",
+    "discord.js": "latest"
+  }
+}
